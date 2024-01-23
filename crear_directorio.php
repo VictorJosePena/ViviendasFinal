@@ -15,5 +15,5 @@ if(move_uploaded_file($ruta_temporal,$ruta_destino_archivo)){
 closedir($dir);
 
 //comentario de prueba
-
+//otra prueba
 ?>
